@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Library of clients -->
+<clients>
+	<record>
+		<client>5</client>
+		<name>Orinda American Cafe</name>
+		<fiscal_id>US07654930130</fiscal_id>
+		<address>123 Jones Road, Orinda, CA</address>
+	</record>
+	<record>
+		<client>501</client>
+		<name>Jungle and Sand Coffee</name>
+		<fiscal_id>US08774930141</fiscal_id>
+		<address>12 Sandle Ave, Oakland, CA</address>
+	</record>
+	<record>
+		<client>306</client>
+		<name>California Beach Chalet</name>
+		<fiscal_id>US08853730241</fiscal_id>
+		<address>5475 Pebbles Road, Santa Monica, CA</address>
+	</record>
+</clients>

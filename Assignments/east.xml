@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/css" href = "hw4.css" ?>
+<states>
+   <name>New York</name>
+   <name>North Carolina</name>
+   <name>Florida</name>
+   <name>Delaware</name>
+</states>

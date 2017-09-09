@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type = "text/css" href = "hw2.css" ?>
+
+<ccsf>
+  <cnit131 id="cnit32111">
+    Internet &amp; Intro to HTML
+    <instructor>Jack</instructor>
+  </cnit131>
+
+  <cnit131a id="32123">
+    XML &amp; JSON
+    <instructor>Jill</instructor>
+  </cnit131a>
+
+  <cnit132 id="32145">
+    Intermediate HTML &amp; CSS
+    <instructor>Joe</instructor>
+  </cnit132>
+
+  <cnit133 id="32167">
+    Javascript
+    <instructor>Jeff</instructor>
+  </cnit133>
+</ccsf>
