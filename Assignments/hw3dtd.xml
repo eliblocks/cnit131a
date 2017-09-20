@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<note>
+<!DOCTYPE note SYSTEM "hw3.dtd">
   <to>Claudia</to>
   <from>Janet</from>
   <heading>CNIT131A Class</heading>
