@@ -1,0 +1,26 @@
+@namespace west "http://www.eliblock.io/states/west";
+@namespace east "http://www.eliblock.io/states/east";
+
+states { 
+  width: 300px; 
+  border: 2px solid red; 
+  margin: 0 auto; 
+}
+
+name { 
+  display: block; 
+  width: 100%; 
+  
+  font-weight: bold; 
+}
+
+west|* {
+  background-color: yellow;
+  color: blue;
+}
+
+east|*  {
+  background-color: skyblue; 
+  color: red; 
+}
+

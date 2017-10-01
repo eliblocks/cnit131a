@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/css" href = "hw4.css" ?>
+<root xmlns:east="http://www.eliblock.io/states/east" xmlns:west="http://www.eliblock.io/states/west">
+  <states>
+    <west:name>California</west:name>
+    <east:name>Delaware</east:name>
+    <east:name>Florida</east:name>
+    <east:name>North Carolina</east:name>
+    <east:name>New York</east:name>
+    <west:name>Oregon</west:name>
+    <west:name>Utah</west:name>
+    <west:name>Washington</west:name>
+  </states>
+</root>
+s
