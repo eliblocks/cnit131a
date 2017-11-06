@@ -21,12 +21,17 @@
                   </xsl:choose>
                 </xsl:attribute>
                 <td><xsl:value-of select="stock:symbol"/></td>
-                <td><xsl:value-of select="stock:price"/></td>
+                <td>$<xsl:value-of select="stock:price"/></td>
                 <td><xsl:value-of select="stock:ceo"/></td>
               </tr>
             </xsl:if>
           </xsl:for-each>
         </table>
+        <p>
+          The count of stocks that cost more than $70.00 is 
+          <xsl:value-of select="count(/stock:doc/stock:item[stock:price > 70])" />
+        </p>
+        
         <style>
           .odd {
             background-color: cyan;

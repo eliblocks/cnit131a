@@ -1,10 +1,10 @@
 <?xml version = "1.0" encoding = "UTF-8" ?>
 
-<?xml-stylesheet type="text/xsl" href="hw5.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="hw6.xsl" ?>
 
 <stock:doc 
 xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation = "http://www.ineasysteps.com/xsd hw5.xsd"
+xsi:schemaLocation = "http://www.ineasysteps.com/xsd hw6.xsd"
 xmlns:stock = "http://www.ineasysteps.com/xsd" >
 
 	<stock:item id = "Microsoft">
@@ -36,4 +36,6 @@ xmlns:stock = "http://www.ineasysteps.com/xsd" >
 		<stock:price>54.00</stock:price>
 		<stock:ceo>Linka Link</stock:ceo>
 	</stock:item>	
+
 </stock:doc>
+
